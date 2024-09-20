@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/bit_bg"
+    tools:context=".BipSignUpActivity">
+
+    <TextView
+        android:id="@+id/BipStudentSignuptext"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="48dp"
+        android:text="Student "
+        android:textColor="@color/black"
+        android:textSize="30sp"
+        android:textStyle="bold"
+        app:layout_constraintBottom_toTopOf="@+id/BipStudentSgnupStudentName"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.45"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.633" />
+
+    <EditText
+        android:id="@+id/BipStudentSgnupStudentName"
+        android:layout_width="240dp"
+        android:layout_height="64dp"
+        android:layout_marginBottom="12dp"
+        android:paddingStart="10sp"
+        android:background="#3fffffff"
+        android:drawableLeft="@drawable/name_icon"
+        android:ems="10"
+        android:hint="Name"
+        android:inputType="textPersonName"
+        android:textColorHint="@color/black"
+        app:layout_constraintBottom_toTopOf="@+id/BipStudentSignUpStudentRollNumber"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.415"
+        app:layout_constraintStart_toStartOf="parent" />
+
+    <EditText
+        android:id="@+id/BipStudentSignUpStudentRollNumber"
+        android:layout_width="233dp"
+        android:layout_height="62dp"
+        android:layout_marginBottom="16dp"
+        android:background="#3fffffff"
+        android:drawableLeft="@drawable/roll_number_icon"
+        android:ems="10"
+        android:hint="   Roll Number"
+        android:inputType="number"
+        android:paddingLeft="10sp"
+        android:textColorHint="@color/black"
+        app:layout_constraintBottom_toTopOf="@+id/BipStudentSignUpStudentEmailAddress"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.398"
+        app:layout_constraintStart_toStartOf="parent" />
+
+    <EditText
+        android:id="@+id/BipStudentSignUpStudentEmailAddress"
+        android:layout_width="236dp"
+        android:layout_height="54dp"
+        android:layout_marginBottom="24dp"
+        android:paddingLeft="10sp"
+        android:background="#3fffffff"
+        android:drawableLeft="@drawable/email_icon"
+        android:ems="10"
+        android:hint="  Email Address"
+        android:inputType="textEmailAddress"
+        android:textColorHint="@color/black"
+        app:layout_constraintBottom_toTopOf="@+id/BipStudentSignUpStudentPassword"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.432"
+        app:layout_constraintStart_toStartOf="parent" />
+
+    <EditText
+        android:id="@+id/BipStudentSignUpStudentPassword"
+        android:layout_width="232dp"
+        android:layout_height="158dp"
+        android:layout_marginBottom="40dp"
+        android:background="#3fffffff"
+        android:drawableLeft="@drawable/password_icon"
+        android:drawableRight="@drawable/password_view"
+        android:ems="10"
+        android:hint="   Password"
+        android:inputType="textPassword"
+        android:longClickable="false"
+        android:paddingLeft="10sp"
+        android:paddingRight="10dp"
+        android:textColorHint="@color/black"
+        app:layout_constraintBottom_toTopOf="@+id/BipStudentSignUpStudentSignUpbtn"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.44"
+        app:layout_constraintStart_toStartOf="parent" />
+
+    <Button
+        android:id="@+id/BipStudentSignUpStudentSignUpbtn"
+        android:layout_width="108dp"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="136dp"
+        android:background="@drawable/student_sign_up_round_button"
+        android:drawableStart="@drawable/student_sign_up"
+        android:paddingLeft="10sp"
+        android:paddingRight="10sp"
+        android:text="SignUp"
+        android:textColor="@color/white"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.498"
+        app:layout_constraintStart_toStartOf="parent" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>

@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/mobile_navigation"
+    app:startDestination="@+id/nav_home">
+
+    <fragment
+        android:id="@+id/nav_home"
+        android:name="in.ac.bgi.ui.home.HomeFragment"
+        android:label="@string/menu_home"
+        tools:layout="@layout/fragment_home" />
+
+    <fragment
+        android:id="@+id/nav_notes"
+        android:name="in.ac.bgi.ui.notes.NotesFragment"
+        android:label="@string/menu_notes"
+        tools:layout="@layout/fragment_notes"/>
+
+    <fragment
+        android:id="@+id/nav_labs_and_projects"
+        android:name="in.ac.bgi.ui.labs_and_projects.LabsAndProjectsFragment"
+        android:label="@string/menu_labs_and_projects"
+        tools:layout="@layout/fragment_labs_and_projects"/>
+
+    <fragment
+        android:id="@+id/nav_tutorials_and_assingments"
+        android:name="in.ac.bgi.ui.tutorials_and_assingments.TutorialsAndProjectsFragment"
+        android:label="@string/menu_tutorials_and_assingments"
+        tools:layout="@layout/fragment_tutorials_and_projects"/>
+
+    <fragment
+        android:id="@+id/nav_attendence"
+        android:name="in.ac.bgi.ui.attendence.AttendenceFragment"
+        android:label="@string/menu_attendence"
+        tools:layout="@layout/fragment_attendence" />
+
+    <fragment
+        android:id="@+id/nav_result"
+        android:name="in.ac.bgi.ui.result.ResultFragment"
+        android:label="@string/menu_result"
+        tools:layout="@layout/fragment_result" />
+
+    <fragment
+        android:id="@+id/nav_fees_and_dues"
+        android:name="in.ac.bgi.ui.fees_and_dues.FeesAndDuesFragment"
+        android:label="@string/menu_fees_and_dues"
+        tools:layout="@layout/fragment_fees_and_dues" />
+
+</navigation>

@@ -1,0 +1,4 @@
+in.ac.bgi.test.app-androidTest-0 E:\project\college\app\build\generated\res\resValues\androidTest\debug
+in.ac.bgi.test.app-mergeDebugAndroidTestResources-1 E:\project\college\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\merged.dir
+in.ac.bgi.test.app-mergeDebugAndroidTestResources-2 E:\project\college\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\stripped.dir
+in.ac.bgi.test.app-merged_res-3 E:\project\college\app\build\intermediates\merged_res\debugAndroidTest

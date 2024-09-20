@@ -1,0 +1,666 @@
+[
+    {
+        "merged": "in.ac.bgi.app-merged_res-64:/layout_app_bar_bdc_student_main.xml.flat",
+        "source": "in.ac.bgi.app-main-66:/layout/app_bar_bdc_student_main.xml"
+    },
+    {
+        "merged": "in.ac.bgi.app-merged_res-64:/drawable_ic_menu_gallery.xml.flat",
+        "source": "in.ac.bgi.app-main-66:/drawable/ic_menu_gallery.xml"
+    },
+    {
+        "merged": "in.ac.bgi.app-merged_res-64:/drawable_ic_menu_home.xml.flat",
+        "source": "in.ac.bgi.app-main-66:/drawable/ic_menu_home.xml"
+    },
+    {
+        "merged": "in.ac.bgi.app-merged_res-64:/mipmap-xxxhdpi_ic_launcher_foreground.png.flat",
+        "source": "in.ac.bgi.app-debug-65:/mipmap-xxxhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "in.ac.bgi.app-merged_res-64:/drawable_password_icon.xml.flat",
+        "source": "in.ac.bgi.app-main-66:/drawable/password_icon.xml"
+    },
+    {
+        "merged": "in.ac.bgi.app-merged_res-64:/layout_activity_bip_student_main.xml.flat",
+        "source": "in.ac.bgi.app-main-66:/layout/activity_bip_student_main.xml"
+    },
+    {
+        "merged": "in.ac.bgi.app-merged_res-64:/drawable_bihm_bg.jpg.flat",
+        "source": "in.ac.bgi.app-main-66:/drawable/bihm_bg.jpg"
+    },
+    {
+        "merged": "in.ac.bgi.app-merged_res-64:/drawable_iti_round_button.xml.flat",
+        "source": "in.ac.bgi.app-main-66:/drawable/iti_round_button.xml"
+    },
+    {
+        "merged": "in.ac.bgi.app-merged_res-64:/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "in.ac.bgi.app-debug-65:/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "in.ac.bgi.app-merged_res-64:/layout_nav_header_bip_student_main.xml.flat",
+        "source": "in.ac.bgi.app-main-66:/layout/nav_header_bip_student_main.xml"
+    },
+    {
+        "merged": "in.ac.bgi.app-merged_res-64:/layout_fragment_result.xml.flat",
+        "source": "in.ac.bgi.app-main-66:/layout/fragment_result.xml"
+    },
+    {
+        "merged": "in.ac.bgi.app-merged_res-64:/drawable_admin_round_btn.xml.flat",
+        "source": "in.ac.bgi.app-main-66:/drawable/admin_round_btn.xml"
+    },
+    {
+        "merged": "in.ac.bgi.app-merged_res-64:/layout_activity_admin_student_id_creater.xml.flat",
+        "source": "in.ac.bgi.app-main-66:/layout/activity_admin_student_id_creater.xml"
+    },
+    {
+        "merged": "in.ac.bgi.app-merged_res-64:/drawable_name_icon.xml.flat",
+        "source": "in.ac.bgi.app-main-66:/drawable/name_icon.xml"
+    },
+    {
+        "merged": "in.ac.bgi.app-merged_res-64:/layout_activity_bip_log_in.xml.flat",
+        "source": "in.ac.bgi.app-main-66:/layout/activity_bip_log_in.xml"
+    },
+    {
+        "merged": "in.ac.bgi.app-merged_res-64:/drawable_bip_round_button.xml.flat",
+        "source": "in.ac.bgi.app-main-66:/drawable/bip_round_button.xml"
+    },
+    {
+        "merged": "in.ac.bgi.app-merged_res-64:/layout_app_bar_iti_student_main.xml.flat",
+        "source": "in.ac.bgi.app-main-66:/layout/app_bar_iti_student_main.xml"
+    },
+    {
+        "merged": "in.ac.bgi.app-merged_res-64:/layout_content_bdc_student_main.xml.flat",
+        "source": "in.ac.bgi.app-main-66:/layout/content_bdc_student_main.xml"
+    },
+    {
+        "merged": "in.ac.bgi.app-merged_res-64:/drawable_confirm_icon.xml.flat",
+        "source": "in.ac.bgi.app-main-66:/drawable/confirm_icon.xml"
+    },
+    {
+        "merged": "in.ac.bgi.app-merged_res-64:/layout_activity_bit_admin_main.xml.flat",
+        "source": "in.ac.bgi.app-main-66:/layout/activity_bit_admin_main.xml"
+    },
+    {
+        "merged": "in.ac.bgi.app-merged_res-64:/navigation_mobile_navigation4.xml.flat",
+        "source": "in.ac.bgi.app-main-66:/navigation/mobile_navigation4.xml"
+    },
+    {
+        "merged": "in.ac.bgi.app-merged_res-64:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "in.ac.bgi.app-debug-65:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "in.ac.bgi.app-merged_res-64:/layout_activity_bit_forget_password.xml.flat",
+        "source": "in.ac.bgi.app-main-66:/layout/activity_bit_forget_password.xml"
+    },
+    {
+        "merged": "in.ac.bgi.app-merged_res-64:/layout_activity_bihm_sign_up.xml.flat",
+        "source": "in.ac.bgi.app-main-66:/layout/activity_bihm_sign_up.xml"
+    },
+    {
+        "merged": "in.ac.bgi.app-merged_res-64:/drawable_buddha_image.xml.flat",
+        "source": "in.ac.bgi.app-main-66:/drawable/buddha_image.xml"
+    },
+    {
+        "merged": "in.ac.bgi.app-merged_res-64:/layout_fragment_attendence.xml.flat",
+        "source": "in.ac.bgi.app-main-66:/layout/fragment_attendence.xml"
+    },
+    {
+        "merged": "in.ac.bgi.app-merged_res-64:/layout_activity_admin_student_id_collection.xml.flat",
+        "source": "in.ac.bgi.app-main-66:/layout/activity_admin_student_id_collection.xml"
+    },
+    {
+        "merged": "in.ac.bgi.app-merged_res-64:/mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "in.ac.bgi.app-debug-65:/mipmap-xxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "in.ac.bgi.app-merged_res-64:/drawable-hdpi_ic_launcher_foreground.png.flat",
+        "source": "in.ac.bgi.app-pngs-60:/drawable-hdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "in.ac.bgi.app-merged_res-64:/layout_content_bit_student_main.xml.flat",
+        "source": "in.ac.bgi.app-main-66:/layout/content_bit_student_main.xml"
+    },
+    {
+        "merged": "in.ac.bgi.app-merged_res-64:/drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "in.ac.bgi.app-pngs-60:/drawable-anydpi-v24/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "in.ac.bgi.app-merged_res-64:/drawable_password_hide.xml.flat",
+        "source": "in.ac.bgi.app-main-66:/drawable/password_hide.xml"
+    },
+    {
+        "merged": "in.ac.bgi.app-merged_res-64:/drawable_ic_menu_camera.xml.flat",
+        "source": "in.ac.bgi.app-main-66:/drawable/ic_menu_camera.xml"
+    },
+    {
+        "merged": "in.ac.bgi.app-merged_res-64:/layout_activity_bpmc_sign_up.xml.flat",
+        "source": "in.ac.bgi.app-main-66:/layout/activity_bpmc_sign_up.xml"
+    },
+    {
+        "merged": "in.ac.bgi.app-merged_res-64:/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "in.ac.bgi.app-debug-65:/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "in.ac.bgi.app-merged_res-64:/drawable_student_sign_up_round_button.xml.flat",
+        "source": "in.ac.bgi.app-main-66:/drawable/student_sign_up_round_button.xml"
+    },
+    {
+        "merged": "in.ac.bgi.app-merged_res-64:/drawable_bpmc_icon.xml.flat",
+        "source": "in.ac.bgi.app-main-66:/drawable/bpmc_icon.xml"
+    },
+    {
+        "merged": "in.ac.bgi.app-merged_res-64:/layout_activity_bdc_student_main.xml.flat",
+        "source": "in.ac.bgi.app-main-66:/layout/activity_bdc_student_main.xml"
+    },
+    {
+        "merged": "in.ac.bgi.app-merged_res-64:/drawable_admin_icon.xml.flat",
+        "source": "in.ac.bgi.app-main-66:/drawable/admin_icon.xml"
+    },
+    {
+        "merged": "in.ac.bgi.app-merged_res-64:/xml_backup_rules.xml.flat",
+        "source": "in.ac.bgi.app-main-66:/xml/backup_rules.xml"
+    },
+    {
+        "merged": "in.ac.bgi.app-merged_res-64:/drawable-xxxhdpi_ic_launcher_foreground.png.flat",
+        "source": "in.ac.bgi.app-pngs-60:/drawable-xxxhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "in.ac.bgi.app-merged_res-64:/navigation_mobile_navigation3.xml.flat",
+        "source": "in.ac.bgi.app-main-66:/navigation/mobile_navigation3.xml"
+    },
+    {
+        "merged": "in.ac.bgi.app-merged_res-64:/layout_activity_bit_sign_up.xml.flat",
+        "source": "in.ac.bgi.app-main-66:/layout/activity_bit_sign_up.xml"
+    },
+    {
+        "merged": "in.ac.bgi.app-merged_res-64:/layout_activity_bihm_student_main.xml.flat",
+        "source": "in.ac.bgi.app-main-66:/layout/activity_bihm_student_main.xml"
+    },
+    {
+        "merged": "in.ac.bgi.app-merged_res-64:/layout_app_bar_bip_student_main.xml.flat",
+        "source": "in.ac.bgi.app-main-66:/layout/app_bar_bip_student_main.xml"
+    },
+    {
+        "merged": "in.ac.bgi.app-merged_res-64:/drawable_library_icon.xml.flat",
+        "source": "in.ac.bgi.app-main-66:/drawable/library_icon.xml"
+    },
+    {
+        "merged": "in.ac.bgi.app-merged_res-64:/layout_activity_bpmc_student_main.xml.flat",
+        "source": "in.ac.bgi.app-main-66:/layout/activity_bpmc_student_main.xml"
+    },
+    {
+        "merged": "in.ac.bgi.app-merged_res-64:/layout_activity_admin_update_student_data.xml.flat",
+        "source": "in.ac.bgi.app-main-66:/layout/activity_admin_update_student_data.xml"
+    },
+    {
+        "merged": "in.ac.bgi.app-merged_res-64:/mipmap-xhdpi_ic_launcher_foreground.png.flat",
+        "source": "in.ac.bgi.app-debug-65:/mipmap-xhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "in.ac.bgi.app-merged_res-64:/layout_activity_bpmc_log_in.xml.flat",
+        "source": "in.ac.bgi.app-main-66:/layout/activity_bpmc_log_in.xml"
+    },
+    {
+        "merged": "in.ac.bgi.app-merged_res-64:/drawable_attendence_icon.xml.flat",
+        "source": "in.ac.bgi.app-main-66:/drawable/attendence_icon.xml"
+    },
+    {
+        "merged": "in.ac.bgi.app-merged_res-64:/layout_nav_header_iti_student_main.xml.flat",
+        "source": "in.ac.bgi.app-main-66:/layout/nav_header_iti_student_main.xml"
+    },
+    {
+        "merged": "in.ac.bgi.app-merged_res-64:/layout_activity_bdc_admin_main.xml.flat",
+        "source": "in.ac.bgi.app-main-66:/layout/activity_bdc_admin_main.xml"
+    },
+    {
+        "merged": "in.ac.bgi.app-merged_res-64:/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "in.ac.bgi.app-debug-65:/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "in.ac.bgi.app-merged_res-64:/layout_fragment_library.xml.flat",
+        "source": "in.ac.bgi.app-main-66:/layout/fragment_library.xml"
+    },
+    {
+        "merged": "in.ac.bgi.app-merged_res-64:/menu_bit_student_main.xml.flat",
+        "source": "in.ac.bgi.app-main-66:/menu/bit_student_main.xml"
+    },
+    {
+        "merged": "in.ac.bgi.app-merged_res-64:/navigation_mobile_navigation6.xml.flat",
+        "source": "in.ac.bgi.app-main-66:/navigation/mobile_navigation6.xml"
+    },
+    {
+        "merged": "in.ac.bgi.app-merged_res-64:/layout_activity_bit_teacher_main.xml.flat",
+        "source": "in.ac.bgi.app-main-66:/layout/activity_bit_teacher_main.xml"
+    },
+    {
+        "merged": "in.ac.bgi.app-merged_res-64:/layout_content_bihm_student_main.xml.flat",
+        "source": "in.ac.bgi.app-main-66:/layout/content_bihm_student_main.xml"
+    },
+    {
+        "merged": "in.ac.bgi.app-merged_res-64:/layout_nav_header_bit_teacher_main.xml.flat",
+        "source": "in.ac.bgi.app-main-66:/layout/nav_header_bit_teacher_main.xml"
+    },
+    {
+        "merged": "in.ac.bgi.app-merged_res-64:/drawable_bit_bg.jpg.flat",
+        "source": "in.ac.bgi.app-main-66:/drawable/bit_bg.jpg"
+    },
+    {
+        "merged": "in.ac.bgi.app-merged_res-64:/layout_fragment_labs_and_projects.xml.flat",
+        "source": "in.ac.bgi.app-main-66:/layout/fragment_labs_and_projects.xml"
+    },
+    {
+        "merged": "in.ac.bgi.app-merged_res-64:/menu_bihm_student_main.xml.flat",
+        "source": "in.ac.bgi.app-main-66:/menu/bihm_student_main.xml"
+    },
+    {
+        "merged": "in.ac.bgi.app-merged_res-64:/navigation_mobile_navigation.xml.flat",
+        "source": "in.ac.bgi.app-main-66:/navigation/mobile_navigation.xml"
+    },
+    {
+        "merged": "in.ac.bgi.app-merged_res-64:/layout_activity_bihm_log_in.xml.flat",
+        "source": "in.ac.bgi.app-main-66:/layout/activity_bihm_log_in.xml"
+    },
+    {
+        "merged": "in.ac.bgi.app-merged_res-64:/layout_activity_bit_teacher_sign_up.xml.flat",
+        "source": "in.ac.bgi.app-main-66:/layout/activity_bit_teacher_sign_up.xml"
+    },
+    {
+        "merged": "in.ac.bgi.app-merged_res-64:/drawable_bihm_round_button.xml.flat",
+        "source": "in.ac.bgi.app-main-66:/drawable/bihm_round_button.xml"
+    },
+    {
+        "merged": "in.ac.bgi.app-merged_res-64:/layout_activity_iti_student_main.xml.flat",
+        "source": "in.ac.bgi.app-main-66:/layout/activity_iti_student_main.xml"
+    },
+    {
+        "merged": "in.ac.bgi.app-merged_res-64:/menu_activity_bpmc_student_main_drawer.xml.flat",
+        "source": "in.ac.bgi.app-main-66:/menu/activity_bpmc_student_main_drawer.xml"
+    },
+    {
+        "merged": "in.ac.bgi.app-merged_res-64:/drawable_notes_icon.xml.flat",
+        "source": "in.ac.bgi.app-main-66:/drawable/notes_icon.xml"
+    },
+    {
+        "merged": "in.ac.bgi.app-merged_res-64:/menu_activity_bit_teacher_main_drawer.xml.flat",
+        "source": "in.ac.bgi.app-main-66:/menu/activity_bit_teacher_main_drawer.xml"
+    },
+    {
+        "merged": "in.ac.bgi.app-merged_res-64:/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "in.ac.bgi.app-debug-65:/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "in.ac.bgi.app-merged_res-64:/layout_activity_iti_sign_up.xml.flat",
+        "source": "in.ac.bgi.app-main-66:/layout/activity_iti_sign_up.xml"
+    },
+    {
+        "merged": "in.ac.bgi.app-merged_res-64:/menu_bpmc_student_main.xml.flat",
+        "source": "in.ac.bgi.app-main-66:/menu/bpmc_student_main.xml"
+    },
+    {
+        "merged": "in.ac.bgi.app-merged_res-64:/menu_activity_main_drawer.xml.flat",
+        "source": "in.ac.bgi.app-main-66:/menu/activity_main_drawer.xml"
+    },
+    {
+        "merged": "in.ac.bgi.app-merged_res-64:/drawable-mdpi_ic_launcher_foreground.png.flat",
+        "source": "in.ac.bgi.app-pngs-60:/drawable-mdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "in.ac.bgi.app-merged_res-64:/drawable_bpmc_round_button.xml.flat",
+        "source": "in.ac.bgi.app-main-66:/drawable/bpmc_round_button.xml"
+    },
+    {
+        "merged": "in.ac.bgi.app-merged_res-64:/drawable_fees_and_dues_icon.xml.flat",
+        "source": "in.ac.bgi.app-main-66:/drawable/fees_and_dues_icon.xml"
+    },
+    {
+        "merged": "in.ac.bgi.app-merged_res-64:/layout_nav_header_bpmc_student_main.xml.flat",
+        "source": "in.ac.bgi.app-main-66:/layout/nav_header_bpmc_student_main.xml"
+    },
+    {
+        "merged": "in.ac.bgi.app-merged_res-64:/drawable_bip_bg.jpg.flat",
+        "source": "in.ac.bgi.app-main-66:/drawable/bip_bg.jpg"
+    },
+    {
+        "merged": "in.ac.bgi.app-merged_res-64:/drawable_roll_number_icon.xml.flat",
+        "source": "in.ac.bgi.app-main-66:/drawable/roll_number_icon.xml"
+    },
+    {
+        "merged": "in.ac.bgi.app-merged_res-64:/drawable_student_login_icon.xml.flat",
+        "source": "in.ac.bgi.app-main-66:/drawable/student_login_icon.xml"
+    },
+    {
+        "merged": "in.ac.bgi.app-merged_res-64:/layout_content_bpmc_student_main.xml.flat",
+        "source": "in.ac.bgi.app-main-66:/layout/content_bpmc_student_main.xml"
+    },
+    {
+        "merged": "in.ac.bgi.app-merged_res-64:/layout_nav_header_bihm_student_main.xml.flat",
+        "source": "in.ac.bgi.app-main-66:/layout/nav_header_bihm_student_main.xml"
+    },
+    {
+        "merged": "in.ac.bgi.app-merged_res-64:/drawable-xxhdpi_ic_launcher_foreground.png.flat",
+        "source": "in.ac.bgi.app-pngs-60:/drawable-xxhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "in.ac.bgi.app-merged_res-64:/layout_nav_header_bit_student_main.xml.flat",
+        "source": "in.ac.bgi.app-main-66:/layout/nav_header_bit_student_main.xml"
+    },
+    {
+        "merged": "in.ac.bgi.app-merged_res-64:/layout_activity_bit_student_main.xml.flat",
+        "source": "in.ac.bgi.app-main-66:/layout/activity_bit_student_main.xml"
+    },
+    {
+        "merged": "in.ac.bgi.app-merged_res-64:/menu_activity_bihm_student_main_drawer.xml.flat",
+        "source": "in.ac.bgi.app-main-66:/menu/activity_bihm_student_main_drawer.xml"
+    },
+    {
+        "merged": "in.ac.bgi.app-merged_res-64:/layout_activity_bit_teacher_log_in.xml.flat",
+        "source": "in.ac.bgi.app-main-66:/layout/activity_bit_teacher_log_in.xml"
+    },
+    {
+        "merged": "in.ac.bgi.app-merged_res-64:/layout_content_bip_student_main.xml.flat",
+        "source": "in.ac.bgi.app-main-66:/layout/content_bip_student_main.xml"
+    },
+    {
+        "merged": "in.ac.bgi.app-merged_res-64:/layout_activity_iti_admin_main.xml.flat",
+        "source": "in.ac.bgi.app-main-66:/layout/activity_iti_admin_main.xml"
+    },
+    {
+        "merged": "in.ac.bgi.app-merged_res-64:/layout_activity_bip_sign_up.xml.flat",
+        "source": "in.ac.bgi.app-main-66:/layout/activity_bip_sign_up.xml"
+    },
+    {
+        "merged": "in.ac.bgi.app-merged_res-64:/navigation_mobile_navigation8.xml.flat",
+        "source": "in.ac.bgi.app-main-66:/navigation/mobile_navigation8.xml"
+    },
+    {
+        "merged": "in.ac.bgi.app-merged_res-64:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "in.ac.bgi.app-debug-65:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "in.ac.bgi.app-merged_res-64:/drawable_student_login.xml.flat",
+        "source": "in.ac.bgi.app-main-66:/drawable/student_login.xml"
+    },
+    {
+        "merged": "in.ac.bgi.app-merged_res-64:/drawable_bdc_bg.jpg.flat",
+        "source": "in.ac.bgi.app-main-66:/drawable/bdc_bg.jpg"
+    },
+    {
+        "merged": "in.ac.bgi.app-merged_res-64:/drawable_bit_round_button.xml.flat",
+        "source": "in.ac.bgi.app-main-66:/drawable/bit_round_button.xml"
+    },
+    {
+        "merged": "in.ac.bgi.app-merged_res-64:/drawable_student_sign_up.xml.flat",
+        "source": "in.ac.bgi.app-main-66:/drawable/student_sign_up.xml"
+    },
+    {
+        "merged": "in.ac.bgi.app-merged_res-64:/drawable_iti_bg.jpg.flat",
+        "source": "in.ac.bgi.app-main-66:/drawable/iti_bg.jpg"
+    },
+    {
+        "merged": "in.ac.bgi.app-merged_res-64:/drawable_results_icon.xml.flat",
+        "source": "in.ac.bgi.app-main-66:/drawable/results_icon.xml"
+    },
+    {
+        "merged": "in.ac.bgi.app-merged_res-64:/drawable_side_nav_bar.xml.flat",
+        "source": "in.ac.bgi.app-main-66:/drawable/side_nav_bar.xml"
+    },
+    {
+        "merged": "in.ac.bgi.app-merged_res-64:/drawable-ldpi_ic_launcher_foreground.png.flat",
+        "source": "in.ac.bgi.app-pngs-60:/drawable-ldpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "in.ac.bgi.app-merged_res-64:/layout_activity_bdc_log_in.xml.flat",
+        "source": "in.ac.bgi.app-main-66:/layout/activity_bdc_log_in.xml"
+    },
+    {
+        "merged": "in.ac.bgi.app-merged_res-64:/mipmap-hdpi_ic_launcher_foreground.png.flat",
+        "source": "in.ac.bgi.app-debug-65:/mipmap-hdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "in.ac.bgi.app-merged_res-64:/mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "in.ac.bgi.app-debug-65:/mipmap-xhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "in.ac.bgi.app-merged_res-64:/drawable_tutorials_and_assingments_icon.xml.flat",
+        "source": "in.ac.bgi.app-main-66:/drawable/tutorials_and_assingments_icon.xml"
+    },
+    {
+        "merged": "in.ac.bgi.app-merged_res-64:/layout_activity_bdc_sign_up.xml.flat",
+        "source": "in.ac.bgi.app-main-66:/layout/activity_bdc_sign_up.xml"
+    },
+    {
+        "merged": "in.ac.bgi.app-merged_res-64:/mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "in.ac.bgi.app-debug-65:/mipmap-mdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "in.ac.bgi.app-merged_res-64:/layout_activity_admin_view_student_account.xml.flat",
+        "source": "in.ac.bgi.app-main-66:/layout/activity_admin_view_student_account.xml"
+    },
+    {
+        "merged": "in.ac.bgi.app-merged_res-64:/drawable_labs_and_projects_icon.xml.flat",
+        "source": "in.ac.bgi.app-main-66:/drawable/labs_and_projects_icon.xml"
+    },
+    {
+        "merged": "in.ac.bgi.app-merged_res-64:/drawable_bit_icon.xml.flat",
+        "source": "in.ac.bgi.app-main-66:/drawable/bit_icon.xml"
+    },
+    {
+        "merged": "in.ac.bgi.app-merged_res-64:/layout_fragment_notes.xml.flat",
+        "source": "in.ac.bgi.app-main-66:/layout/fragment_notes.xml"
+    },
+    {
+        "merged": "in.ac.bgi.app-merged_res-64:/drawable_ic_menu_slideshow.xml.flat",
+        "source": "in.ac.bgi.app-main-66:/drawable/ic_menu_slideshow.xml"
+    },
+    {
+        "merged": "in.ac.bgi.app-merged_res-64:/drawable_student_signup.xml.flat",
+        "source": "in.ac.bgi.app-main-66:/drawable/student_signup.xml"
+    },
+    {
+        "merged": "in.ac.bgi.app-merged_res-64:/layout_activity_bip_admin_main.xml.flat",
+        "source": "in.ac.bgi.app-main-66:/layout/activity_bip_admin_main.xml"
+    },
+    {
+        "merged": "in.ac.bgi.app-merged_res-64:/drawable_student_default_image.xml.flat",
+        "source": "in.ac.bgi.app-main-66:/drawable/student_default_image.xml"
+    },
+    {
+        "merged": "in.ac.bgi.app-merged_res-64:/navigation_mobile_navigation7.xml.flat",
+        "source": "in.ac.bgi.app-main-66:/navigation/mobile_navigation7.xml"
+    },
+    {
+        "merged": "in.ac.bgi.app-merged_res-64:/drawable_bgi_logo.png.flat",
+        "source": "in.ac.bgi.app-main-66:/drawable/bgi_logo.png"
+    },
+    {
+        "merged": "in.ac.bgi.app-merged_res-64:/layout_app_bar_bit_teacher_main.xml.flat",
+        "source": "in.ac.bgi.app-main-66:/layout/app_bar_bit_teacher_main.xml"
+    },
+    {
+        "merged": "in.ac.bgi.app-merged_res-64:/xml_data_extraction_rules.xml.flat",
+        "source": "in.ac.bgi.app-main-66:/xml/data_extraction_rules.xml"
+    },
+    {
+        "merged": "in.ac.bgi.app-merged_res-64:/layout_nav_header_bdc_student_main.xml.flat",
+        "source": "in.ac.bgi.app-main-66:/layout/nav_header_bdc_student_main.xml"
+    },
+    {
+        "merged": "in.ac.bgi.app-merged_res-64:/layout_fragment_slideshow.xml.flat",
+        "source": "in.ac.bgi.app-main-66:/layout/fragment_slideshow.xml"
+    },
+    {
+        "merged": "in.ac.bgi.app-merged_res-64:/layout_fragment_fees_and_dues.xml.flat",
+        "source": "in.ac.bgi.app-main-66:/layout/fragment_fees_and_dues.xml"
+    },
+    {
+        "merged": "in.ac.bgi.app-merged_res-64:/menu_bdc_student_main.xml.flat",
+        "source": "in.ac.bgi.app-main-66:/menu/bdc_student_main.xml"
+    },
+    {
+        "merged": "in.ac.bgi.app-merged_res-64:/mipmap-mdpi_ic_launcher_foreground.png.flat",
+        "source": "in.ac.bgi.app-debug-65:/mipmap-mdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "in.ac.bgi.app-merged_res-64:/drawable_password_view.xml.flat",
+        "source": "in.ac.bgi.app-main-66:/drawable/password_view.xml"
+    },
+    {
+        "merged": "in.ac.bgi.app-merged_res-64:/mipmap-xxhdpi_ic_launcher_foreground.png.flat",
+        "source": "in.ac.bgi.app-debug-65:/mipmap-xxhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "in.ac.bgi.app-merged_res-64:/drawable_email_icon.xml.flat",
+        "source": "in.ac.bgi.app-main-66:/drawable/email_icon.xml"
+    },
+    {
+        "merged": "in.ac.bgi.app-merged_res-64:/drawable_phone_icon.xml.flat",
+        "source": "in.ac.bgi.app-main-66:/drawable/phone_icon.xml"
+    },
+    {
+        "merged": "in.ac.bgi.app-merged_res-64:/drawable_bdc_round_button.xml.flat",
+        "source": "in.ac.bgi.app-main-66:/drawable/bdc_round_button.xml"
+    },
+    {
+        "merged": "in.ac.bgi.app-merged_res-64:/layout_nav_header_student_main.xml.flat",
+        "source": "in.ac.bgi.app-main-66:/layout/nav_header_student_main.xml"
+    },
+    {
+        "merged": "in.ac.bgi.app-merged_res-64:/drawable_bihm_icon.xml.flat",
+        "source": "in.ac.bgi.app-main-66:/drawable/bihm_icon.xml"
+    },
+    {
+        "merged": "in.ac.bgi.app-merged_res-64:/drawable_bgi_bg.jpg.flat",
+        "source": "in.ac.bgi.app-main-66:/drawable/bgi_bg.jpg"
+    },
+    {
+        "merged": "in.ac.bgi.app-merged_res-64:/layout_app_bar_bit_student_main.xml.flat",
+        "source": "in.ac.bgi.app-main-66:/layout/app_bar_bit_student_main.xml"
+    },
+    {
+        "merged": "in.ac.bgi.app-merged_res-64:/layout_activity_main.xml.flat",
+        "source": "in.ac.bgi.app-main-66:/layout/activity_main.xml"
+    },
+    {
+        "merged": "in.ac.bgi.app-merged_res-64:/drawable-xhdpi_ic_launcher_foreground.png.flat",
+        "source": "in.ac.bgi.app-pngs-60:/drawable-xhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "in.ac.bgi.app-merged_res-64:/drawable_iti_icon.xml.flat",
+        "source": "in.ac.bgi.app-main-66:/drawable/iti_icon.xml"
+    },
+    {
+        "merged": "in.ac.bgi.app-merged_res-64:/menu_bip_student_main.xml.flat",
+        "source": "in.ac.bgi.app-main-66:/menu/bip_student_main.xml"
+    },
+    {
+        "merged": "in.ac.bgi.app-merged_res-64:/menu_iti_student_main.xml.flat",
+        "source": "in.ac.bgi.app-main-66:/menu/iti_student_main.xml"
+    },
+    {
+        "merged": "in.ac.bgi.app-merged_res-64:/drawable_teacher_icon.xml.flat",
+        "source": "in.ac.bgi.app-main-66:/drawable/teacher_icon.xml"
+    },
+    {
+        "merged": "in.ac.bgi.app-merged_res-64:/mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "in.ac.bgi.app-debug-65:/mipmap-hdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "in.ac.bgi.app-merged_res-64:/navigation_mobile_navigation2.xml.flat",
+        "source": "in.ac.bgi.app-main-66:/navigation/mobile_navigation2.xml"
+    },
+    {
+        "merged": "in.ac.bgi.app-merged_res-64:/layout_single__row.xml.flat",
+        "source": "in.ac.bgi.app-main-66:/layout/single__row.xml"
+    },
+    {
+        "merged": "in.ac.bgi.app-merged_res-64:/menu_activity_bdc_student_main_drawer.xml.flat",
+        "source": "in.ac.bgi.app-main-66:/menu/activity_bdc_student_main_drawer.xml"
+    },
+    {
+        "merged": "in.ac.bgi.app-merged_res-64:/layout_fragment_home.xml.flat",
+        "source": "in.ac.bgi.app-main-66:/layout/fragment_home.xml"
+    },
+    {
+        "merged": "in.ac.bgi.app-merged_res-64:/layout_activity_bit_branch.xml.flat",
+        "source": "in.ac.bgi.app-main-66:/layout/activity_bit_branch.xml"
+    },
+    {
+        "merged": "in.ac.bgi.app-merged_res-64:/drawable_bip_icon.xml.flat",
+        "source": "in.ac.bgi.app-main-66:/drawable/bip_icon.xml"
+    },
+    {
+        "merged": "in.ac.bgi.app-merged_res-64:/layout_activity_splash.xml.flat",
+        "source": "in.ac.bgi.app-main-66:/layout/activity_splash.xml"
+    },
+    {
+        "merged": "in.ac.bgi.app-merged_res-64:/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "in.ac.bgi.app-debug-65:/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "in.ac.bgi.app-merged_res-64:/drawable_bit_teacter_round_button.xml.flat",
+        "source": "in.ac.bgi.app-main-66:/drawable/bit_teacter_round_button.xml"
+    },
+    {
+        "merged": "in.ac.bgi.app-merged_res-64:/layout_fragment_tutorials_and_projects.xml.flat",
+        "source": "in.ac.bgi.app-main-66:/layout/fragment_tutorials_and_projects.xml"
+    },
+    {
+        "merged": "in.ac.bgi.app-merged_res-64:/menu_bit_teacher_main.xml.flat",
+        "source": "in.ac.bgi.app-main-66:/menu/bit_teacher_main.xml"
+    },
+    {
+        "merged": "in.ac.bgi.app-merged_res-64:/layout_activity_bihm_admin_main.xml.flat",
+        "source": "in.ac.bgi.app-main-66:/layout/activity_bihm_admin_main.xml"
+    },
+    {
+        "merged": "in.ac.bgi.app-merged_res-64:/layout_content_bit_teacher_main.xml.flat",
+        "source": "in.ac.bgi.app-main-66:/layout/content_bit_teacher_main.xml"
+    },
+    {
+        "merged": "in.ac.bgi.app-merged_res-64:/layout_activity_iti_log_in.xml.flat",
+        "source": "in.ac.bgi.app-main-66:/layout/activity_iti_log_in.xml"
+    },
+    {
+        "merged": "in.ac.bgi.app-merged_res-64:/layout_app_bar_bihm_student_main.xml.flat",
+        "source": "in.ac.bgi.app-main-66:/layout/app_bar_bihm_student_main.xml"
+    },
+    {
+        "merged": "in.ac.bgi.app-merged_res-64:/drawable_bpmc_bg.jpg.flat",
+        "source": "in.ac.bgi.app-main-66:/drawable/bpmc_bg.jpg"
+    },
+    {
+        "merged": "in.ac.bgi.app-merged_res-64:/layout_activity_bpmc_admin_main.xml.flat",
+        "source": "in.ac.bgi.app-main-66:/layout/activity_bpmc_admin_main.xml"
+    },
+    {
+        "merged": "in.ac.bgi.app-merged_res-64:/mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "in.ac.bgi.app-debug-65:/mipmap-xxxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "in.ac.bgi.app-merged_res-64:/layout_app_bar_bpmc_student_main.xml.flat",
+        "source": "in.ac.bgi.app-main-66:/layout/app_bar_bpmc_student_main.xml"
+    },
+    {
+        "merged": "in.ac.bgi.app-merged_res-64:/drawable_bdc_icon.xml.flat",
+        "source": "in.ac.bgi.app-main-66:/drawable/bdc_icon.xml"
+    },
+    {
+        "merged": "in.ac.bgi.app-merged_res-64:/drawable_ic_launcher_background.xml.flat",
+        "source": "in.ac.bgi.app-main-66:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "in.ac.bgi.app-merged_res-64:/navigation_mobile_navigation5.xml.flat",
+        "source": "in.ac.bgi.app-main-66:/navigation/mobile_navigation5.xml"
+    },
+    {
+        "merged": "in.ac.bgi.app-merged_res-64:/layout_content_iti_student_main.xml.flat",
+        "source": "in.ac.bgi.app-main-66:/layout/content_iti_student_main.xml"
+    },
+    {
+        "merged": "in.ac.bgi.app-merged_res-64:/layout_activity_bit_log_in.xml.flat",
+        "source": "in.ac.bgi.app-main-66:/layout/activity_bit_log_in.xml"
+    },
+    {
+        "merged": "in.ac.bgi.app-merged_res-64:/layout_fragment_gallery.xml.flat",
+        "source": "in.ac.bgi.app-main-66:/layout/fragment_gallery.xml"
+    }
+]

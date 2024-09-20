@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/bgi_bg"
+    tools:context=".MainActivity">
+
+    <Button
+        android:id="@+id/BitBUtton"
+        android:layout_width="299dp"
+        android:layout_height="89dp"
+        android:background="@drawable/bit_round_button"
+        android:drawableTop="@drawable/bit_icon"
+        android:text="BUDDHA INSTITUTE OF TECHNOLOGY"
+        android:textColor="#ffff"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.553"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.043" />
+
+    <Button
+        android:id="@+id/BipButton"
+        android:layout_width="295dp"
+        android:layout_height="101dp"
+        android:background="@drawable/bip_round_button"
+        android:drawableTop="@drawable/bip_icon"
+        android:text="@string/buddha_institute_of_pharmacy"
+        android:textColor="#ffff"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintHorizontal_bias="0.491"
+        app:layout_constraintLeft_toLeftOf="parent"
+        app:layout_constraintRight_toRightOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/BitBUtton"
+        app:layout_constraintVertical_bias="0.06" />
+
+    <Button
+        android:id="@+id/BdcButton"
+        android:layout_width="289dp"
+        android:layout_height="88dp"
+        android:background="@drawable/bdc_round_button"
+        android:drawableTop="@drawable/bdc_icon"
+        android:text="BUDDHA DEGREE COLLEGE"
+        android:textColor="#FFFF"
+        android:visibility="visible"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintHorizontal_bias="0.516"
+        app:layout_constraintLeft_toLeftOf="parent"
+        app:layout_constraintRight_toRightOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/BipButton"
+        app:layout_constraintVertical_bias="0.044"
+        tools:visibility="visible" />
+
+    <Button
+        android:id="@+id/ItiButtom"
+        android:layout_width="285dp"
+        android:layout_height="95dp"
+        android:background="@drawable/iti_round_button"
+        android:drawableTop="@drawable/iti_icon"
+        android:text="BUDDHA PRIVATE INDUSTRIAL TRAINING INSTITUTE"
+        android:textColor="#ffff"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintLeft_toLeftOf="parent"
+        app:layout_constraintRight_toRightOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/BdcButton"
+        app:layout_constraintVertical_bias="0.135" />
+
+    <Button
+        android:id="@+id/BpmcButton"
+        android:layout_width="284dp"
+        android:layout_height="99dp"
+        android:background="@drawable/bpmc_round_button"
+        android:drawableTop="@drawable/bpmc_icon"
+        android:text="BUDDHA PARAMEDICAL COLLEGE"
+        android:textColor="#ffff"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintHorizontal_bias="0.496"
+        app:layout_constraintLeft_toLeftOf="parent"
+        app:layout_constraintRight_toRightOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/ItiButtom"
+        app:layout_constraintVertical_bias="0.158" />
+
+    <Button
+        android:id="@+id/BihmButton"
+        android:layout_width="276dp"
+        android:layout_height="89dp"
+        android:background="@drawable/bihm_round_button"
+        android:drawableTop="@drawable/bihm_icon"
+        android:text="BUDDHA INSTITUTE OF HOTEL MANAGEMENT"
+        android:textColor="#ffff"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintHorizontal_bias="0.461"
+        app:layout_constraintLeft_toLeftOf="parent"
+        app:layout_constraintRight_toRightOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/BpmcButton"
+        app:layout_constraintVertical_bias="0.522" />
+
+
+</androidx.constraintlayout.widget.ConstraintLayout>

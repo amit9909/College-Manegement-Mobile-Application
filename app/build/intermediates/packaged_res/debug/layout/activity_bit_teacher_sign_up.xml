@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/bit_bg"
+    tools:context=".BitTeacherSignUpActivity">
+
+    <TextView
+        android:id="@+id/BitTeacherSignuptext"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="64dp"
+        android:text="TEACHER"
+        android:textColor="@color/black"
+        android:textSize="30sp"
+        android:textStyle="bold"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <EditText
+        android:id="@+id/BitTeacherName"
+        android:layout_width="240dp"
+        android:layout_height="64dp"
+        android:layout_marginBottom="12dp"
+        android:background="#3FC6A6A6"
+        android:drawableLeft="@drawable/name_icon"
+        android:ems="10"
+        android:hint="Name"
+        android:inputType="textPersonName"
+        android:paddingStart="10sp"
+        android:textColorHint="@color/black"
+        app:layout_constraintBottom_toTopOf="@+id/BitTeacherPhoneNumber"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.432"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/BitTeacherSignuptext"
+        app:layout_constraintVertical_bias="0.72" />
+
+    <EditText
+        android:id="@+id/BitTeacherPhoneNumber"
+        android:layout_width="233dp"
+        android:layout_height="62dp"
+        android:layout_marginBottom="28dp"
+        android:background="#3fffffff"
+        android:drawableLeft="@drawable/roll_number_icon"
+        android:ems="10"
+        android:hint="   Phone Number"
+        android:inputType="phone"
+        android:paddingLeft="10sp"
+        android:textColorHint="@color/black"
+        app:layout_constraintBottom_toTopOf="@+id/BitTeacherEmailAddress"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.412"
+        app:layout_constraintStart_toStartOf="parent" />
+
+    <EditText
+        android:id="@+id/BitTeacherEmailAddress"
+        android:layout_width="236dp"
+        android:layout_height="54dp"
+        android:layout_marginBottom="24dp"
+        android:background="#3fffffff"
+        android:drawableLeft="@drawable/email_icon"
+        android:ems="10"
+        android:hint="  Email Address"
+        android:inputType="textEmailAddress"
+        android:paddingLeft="10sp"
+        android:textColorHint="@color/black"
+        app:layout_constraintBottom_toTopOf="@+id/BitTeacherPassword"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.432"
+        app:layout_constraintStart_toStartOf="parent" />
+
+    <EditText
+        android:id="@+id/BitTeacherPassword"
+        android:layout_width="225dp"
+        android:layout_height="57dp"
+        android:layout_marginBottom="40dp"
+        android:background="#3fffffff"
+        android:drawableLeft="@drawable/password_icon"
+        android:drawableRight="@drawable/password_view"
+        android:ems="10"
+        android:hint="   Password"
+        android:inputType="textPassword"
+        android:longClickable="false"
+        android:paddingLeft="10sp"
+        android:paddingRight="10dp"
+        android:textColorHint="@color/black"
+        app:layout_constraintBottom_toTopOf="@+id/BitTeacherSignUpbtn"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.44"
+        app:layout_constraintStart_toStartOf="parent" />
+
+    <Button
+        android:id="@+id/BitTeacherSignUpbtn"
+        android:layout_width="197dp"
+        android:layout_height="99dp"
+        android:layout_marginBottom="136dp"
+        android:background="@drawable/student_sign_up_round_button"
+        android:drawableStart="@drawable/student_sign_up"
+        android:paddingLeft="10sp"
+        android:paddingRight="10sp"
+        android:text="SignUp"
+        android:textColor="@color/black"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.498"
+        app:layout_constraintStart_toStartOf="parent" />
+</androidx.constraintlayout.widget.ConstraintLayout>

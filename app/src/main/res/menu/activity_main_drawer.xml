@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_home"
+            android:icon="@drawable/ic_menu_home"
+            android:title="@string/menu_home" />
+        <item
+            android:id="@+id/nav_notes"
+            android:icon="@drawable/notes_icon"
+            android:title="@string/menu_notes"/>
+        <item
+            android:id="@+id/nav_labs_and_projects"
+            android:icon="@drawable/labs_and_projects_icon"
+            android:title="@string/menu_labs_and_projects"/>
+        <item
+            android:id="@+id/nav_tutorials_and_assingments"
+            android:icon="@drawable/tutorials_and_assingments_icon"
+            android:title="@string/menu_tutorials_and_assingments"/>
+        <item
+            android:id="@+id/nav_attendence"
+            android:icon="@drawable/attendence_icon"
+            android:title="@string/menu_attendence" />
+        <item
+            android:id="@+id/nav_result"
+            android:icon="@drawable/results_icon"
+            android:title="@string/menu_result"/>
+        <item
+            android:id="@+id/nav_fees_and_dues"
+            android:icon="@drawable/fees_and_dues_icon"
+            android:title="@string/menu_fees_and_dues" />
+        <item
+            android:id="@+id/nav_library"
+            android:icon="@drawable/library_icon"
+            android:title="Library" />
+
+
+
+
+    </group>
+</menu>

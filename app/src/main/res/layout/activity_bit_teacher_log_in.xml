@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/bit_bg"
+    tools:context=".BitTeacherLogInActivity">
+
+    <TextView
+        android:id="@+id/teacherlogintext"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="28dp"
+        android:text="Teacher"
+        android:textColor="@color/black"
+        android:textSize="35dp"
+        android:textStyle="bold"
+        app:layout_constraintBottom_toTopOf="@+id/TeacherLoginEmailAddress"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.735" />
+
+
+    <EditText
+        android:id="@+id/TeacherLoginEmailAddress"
+        android:layout_width="229dp"
+        android:layout_height="49dp"
+        android:layout_marginBottom="36dp"
+        android:paddingLeft="10sp"
+        android:background="#3fffffff"
+        android:drawableLeft="@drawable/email_icon"
+        android:ems="10"
+        android:hint="  Email Address"
+        android:inputType="textEmailAddress"
+        android:textColorHint="@color/black"
+        app:layout_constraintBottom_toTopOf="@+id/TeacherLoginPassword"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.51"
+        app:layout_constraintStart_toStartOf="parent" />
+
+    <EditText
+        android:id="@+id/TeacherLoginPassword"
+        android:layout_width="222dp"
+        android:layout_height="48dp"
+        android:layout_marginBottom="28dp"
+        android:paddingLeft="10sp"
+        android:background="#3fffffff"
+        android:drawableLeft="@drawable/password_icon"
+        android:ems="10"
+        android:hint="  Password"
+        android:inputType="textPassword"
+        android:textColorHint="@color/black"
+        android:drawableRight="@drawable/password_view"
+        android:paddingRight="10sp"
+        android:longClickable="false"
+        app:layout_constraintBottom_toTopOf="@+id/TeacherLoginForgetPassword"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.529"
+        app:layout_constraintStart_toStartOf="parent" />
+
+    <Button
+        android:id="@+id/TeacherLoginForgetPassword"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="24dp"
+        android:background="?android:attr/selectableItemBackground"
+        android:text="Forget Password"
+        android:textColor="@color/purple_700"
+        app:layout_constraintBottom_toTopOf="@+id/TeacherLoginbtn"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.355"
+        app:layout_constraintStart_toStartOf="parent" />
+
+    <Button
+        android:id="@+id/TeacherLoginbtn"
+        android:layout_width="97dp"
+        android:layout_height="53dp"
+        android:layout_marginBottom="32dp"
+        android:paddingRight="10sp"
+        android:paddingLeft="10sp"
+        android:background="@drawable/student_login"
+        android:drawableStart="@drawable/student_login_icon"
+        android:text="LogIn"
+        android:textColor="@color/white"
+        app:layout_constraintBottom_toTopOf="@+id/TeacherLoginSignup"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.528"
+        app:layout_constraintStart_toStartOf="parent" />
+
+    <Button
+        android:id="@+id/TeacherLoginSignup"
+        android:layout_width="108dp"
+        android:layout_height="52dp"
+        android:layout_marginEnd="76dp"
+        android:layout_marginBottom="236dp"
+        android:background="@drawable/student_signup"
+        android:drawableStart="@drawable/student_sign_up"
+        android:paddingLeft="10sp"
+        android:paddingRight="10sp"
+        android:text="signup"
+        android:textColor="@color/white"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="@id/TeacherLogindminBtn"
+        app:layout_constraintHorizontal_bias="0.876"
+        app:layout_constraintStart_toStartOf="@id/teacherloginteacherbtn" />
+
+    <Button
+        android:id="@+id/teacherloginteacherbtn"
+        android:layout_width="124dp"
+        android:layout_height="49dp"
+        android:layout_marginStart="76dp"
+        android:layout_marginBottom="128dp"
+        android:background="@drawable/bit_teacter_round_button"
+        android:drawableLeft="@drawable/teacher_icon"
+        android:paddingLeft="10sp"
+        android:paddingRight="10sp"
+        android:text="teacher"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toStartOf="@+id/TeacherLogindminBtn"
+        app:layout_constraintHorizontal_bias="0.275"
+        app:layout_constraintStart_toStartOf="parent" />
+
+    <Button
+        android:id="@+id/TeacherLogindminBtn"
+        android:layout_width="108dp"
+        android:layout_height="48dp"
+        android:layout_marginEnd="52dp"
+        android:layout_marginBottom="132dp"
+        android:background="@drawable/admin_round_btn"
+        android:drawableLeft="@drawable/admin_icon"
+        android:paddingLeft="10sp"
+        android:paddingRight="10sp"
+        android:text="admin"
+        android:textColor="@color/black"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent" />
+
+
+
+</androidx.constraintlayout.widget.ConstraintLayout>

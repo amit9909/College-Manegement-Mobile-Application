@@ -1,0 +1,25 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Theme.Bgi" parent="Theme.AppCompat.DayNight.NoActionBar">
+        <!-- Primary brand color. -->
+        <item name="colorPrimary">@color/light_blue_600</item>
+        <item name="colorPrimaryVariant">@color/light_blue_600</item>
+        <item name="colorOnPrimary">@color/light_blue_600</item>
+        <!-- Secondary brand color. -->
+        <item name="colorSecondary">@color/light_blue_600</item>
+        <item name="colorSecondaryVariant">@color/light_blue_600</item>
+        <item name="colorOnSecondary">@color/light_blue_600</item>
+        <!-- Status bar color. -->
+        <item name="android:statusBarColor">@color/light_blue_600</item>
+        <!-- Customize your theme here. -->
+    </style>
+
+    <style name="Theme.Bgi.NoActionBar">
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+    </style>
+
+    <style name="Theme.Bgi.AppBarOverlay" parent="ThemeOverlay.AppCompat.Dark.ActionBar" />
+
+    <style name="Theme.Bgi.PopupOverlay" parent="ThemeOverlay.AppCompat.Light" />
+</resources>

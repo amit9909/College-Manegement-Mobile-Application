@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "458665417564",
+    "project_id": "buddha-236df",
+    "storage_bucket": "buddha-236df.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:458665417564:android:ed6bf3cc89628c5a357f99",
+        "android_client_info": {
+          "package_name": "in.ac.bgi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "458665417564-8consq57raf6o7ri38n9ktm9801qbs49.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBei2Uy958s_pF-54Zff0av4k88HbPks5Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "458665417564-8consq57raf6o7ri38n9ktm9801qbs49.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

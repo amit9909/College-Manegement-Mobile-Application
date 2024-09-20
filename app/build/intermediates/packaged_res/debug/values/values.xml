@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="Dark_green">#013220</color>
+    <color name="Dark_pink">#E75480</color>
+    <color name="Light_Blue">#add8e6</color>
+    <color name="Light_Green">#00FF00</color>
+    <color name="Light_pink">#FFC0CB</color>
+    <color name="Normal_Red">#FF00</color>
+    <color name="Rose_red">#E3242B</color>
+    <color name="SkinColor">#FFA5</color>
+    <color name="Yellow">#FFA500</color>
+    <color name="black">#FF000000</color>
+    <color name="black_overlay">#66000000</color>
+    <color name="ic_launcher_background">#FFFFFF</color>
+    <color name="light_blue_600">#FF039BE5</color>
+    <color name="light_blue_900">#FF01579B</color>
+    <color name="light_blue_A200">#FF40C4FF</color>
+    <color name="light_blue_A400">#FF00B0FF</color>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="white">#FFFFFFFF</color>
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="fab_margin">16dp</dimen>
+    <dimen name="nav_header_height">176dp</dimen>
+    <dimen name="nav_header_vertical_spacing">8dp</dimen>
+    <string name="action_logout">Log Out</string>
+    <string name="action_settings">Settings</string>
+    <string name="app_name">Bgi</string>
+    <string name="buddha_institute_of_pharmacy">BUDDHA INSTITUTE OF PHARMACY</string>
+    <string name="default_web_client_id" translatable="false">458665417564-8consq57raf6o7ri38n9ktm9801qbs49.apps.googleusercontent.com</string>
+    <string name="email">Email</string>
+    <string name="gcm_defaultSenderId" translatable="false">458665417564</string>
+    <string name="google_api_key" translatable="false">AIzaSyBei2Uy958s_pF-54Zff0av4k88HbPks5Q</string>
+    <string name="google_app_id" translatable="false">1:458665417564:android:ed6bf3cc89628c5a357f99</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyBei2Uy958s_pF-54Zff0av4k88HbPks5Q</string>
+    <string name="google_storage_bucket" translatable="false">buddha-236df.appspot.com</string>
+    <string name="menu_attendence">Attendance</string>
+    <string name="menu_fees_and_dues">Fees and Dues</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_home">Home</string>
+    <string name="menu_labs_and_projects">Labs and Projects</string>
+    <string name="menu_notes">Notes</string>
+    <string name="menu_notification">Notification</string>
+    <string name="menu_result">Result</string>
+    <string name="menu_slideshow">Slideshow</string>
+    <string name="menu_tutorials_and_assingments">Tutorials and Assingments</string>
+    <string name="name">Name</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="project_id" translatable="false">buddha-236df</string>
+    <string name="title_activity_bdc_student_main">BdcStudentMainActivity</string>
+    <string name="title_activity_bihm_student_main">BihmStudentMainActivity</string>
+    <string name="title_activity_bip_student_main">BipStudentMainActivity</string>
+    <string name="title_activity_bit_student_main">BitStudentMainActivity</string>
+    <string name="title_activity_bit_teacher_main">BitTeacherMainActivity</string>
+    <string name="title_activity_bpmc_student_main">BpmcStudentMainActivity</string>
+    <string name="title_activity_iti_student_main">ItiStudentMainActivity</string>
+    <string name="title_activity_student_main">StudentMainActivity</string>
+    <style name="Theme.Bgi" parent="Theme.AppCompat.DayNight.NoActionBar">
+        
+        <item name="colorPrimary">@color/light_blue_600</item>
+        <item name="colorPrimaryVariant">@color/light_blue_600</item>
+        <item name="colorOnPrimary">@color/light_blue_600</item>
+        
+        <item name="colorSecondary">@color/light_blue_600</item>
+        <item name="colorSecondaryVariant">@color/light_blue_600</item>
+        <item name="colorOnSecondary">@color/light_blue_600</item>
+        
+        <item name="android:statusBarColor">@color/light_blue_600</item>
+        
+    </style>
+    <style name="Theme.Bgi.AppBarOverlay" parent="ThemeOverlay.AppCompat.Dark.ActionBar"/>
+    <style name="Theme.Bgi.NoActionBar">
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+    </style>
+    <style name="Theme.Bgi.PopupOverlay" parent="ThemeOverlay.AppCompat.Light"/>
+</resources>

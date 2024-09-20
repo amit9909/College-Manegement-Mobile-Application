@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/bit_bg"
+    tools:context=".MainActivity">
+
+    <Button
+        android:id="@+id/BitCSButton"
+        android:layout_width="204dp"
+        android:layout_height="60dp"
+        android:background="@drawable/bit_round_button"
+        android:text="CS"
+        android:textColor="@color/black"
+        android:textSize="40dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.439"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.043" />
+
+    <Button
+        android:id="@+id/BitITButton"
+        android:layout_width="204dp"
+        android:layout_height="60dp"
+        android:background="@drawable/bip_round_button"
+        android:text="IT"
+        android:textColor="@color/black"
+        android:textSize="40dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintHorizontal_bias="0.491"
+        app:layout_constraintLeft_toLeftOf="parent"
+        app:layout_constraintRight_toRightOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/BitCSButton"
+        app:layout_constraintVertical_bias="0.06" />
+
+    <Button
+        android:id="@+id/BitAIMLButton"
+        android:layout_width="204dp"
+        android:layout_height="60dp"
+        android:background="@drawable/bdc_round_button"
+        android:text="AIML"
+        android:textColor="@color/black"
+        android:textSize="40dp"
+        android:visibility="visible"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintHorizontal_bias="0.516"
+        app:layout_constraintLeft_toLeftOf="parent"
+        app:layout_constraintRight_toRightOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/BitITButton"
+        app:layout_constraintVertical_bias="0.061"
+        tools:visibility="visible" />
+
+    <Button
+        android:id="@+id/BitDSButton"
+        android:layout_width="204dp"
+        android:layout_height="60dp"
+        android:background="@drawable/iti_round_button"
+        android:text="DS"
+        android:textColor="@color/black"
+        android:textSize="40dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintHorizontal_bias="0.497"
+        app:layout_constraintLeft_toLeftOf="parent"
+        app:layout_constraintRight_toRightOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/BitAIMLButton"
+        app:layout_constraintVertical_bias="0.08" />
+
+    <Button
+        android:id="@+id/BitCEButton"
+        android:layout_width="204dp"
+        android:layout_height="60dp"
+        android:background="@drawable/bpmc_round_button"
+        android:text="CE"
+        android:textColor="@color/black"
+        android:textSize="40dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintHorizontal_bias="0.516"
+        app:layout_constraintLeft_toLeftOf="parent"
+        app:layout_constraintRight_toRightOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/BitDSButton"
+        app:layout_constraintVertical_bias="0.162" />
+
+    <Button
+        android:id="@+id/BitMEButton"
+        android:layout_width="204dp"
+        android:layout_height="60dp"
+        android:background="@drawable/bihm_round_button"
+        android:text="ME"
+        android:textColor="@color/black"
+        android:textSize="40dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintHorizontal_bias="0.516"
+        app:layout_constraintLeft_toLeftOf="parent"
+        app:layout_constraintRight_toRightOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/BitCEButton"
+        app:layout_constraintVertical_bias="0.222" />
+
+    <Button
+        android:id="@+id/BitECEButton"
+        android:layout_width="204dp"
+        android:layout_height="60dp"
+        android:background="@drawable/bpmc_round_button"
+        android:text="ECE"
+        android:textColor="@color/black"
+        android:textSize="40dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintHorizontal_bias="0.497"
+        app:layout_constraintLeft_toLeftOf="parent"
+        app:layout_constraintRight_toRightOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/BitMEButton" />
+
+
+</androidx.constraintlayout.widget.ConstraintLayout>

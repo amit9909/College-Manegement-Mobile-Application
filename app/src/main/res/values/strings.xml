@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">Bgi</string>
+    <string name="buddha_institute_of_pharmacy">BUDDHA INSTITUTE OF PHARMACY</string>
+    <string name="title_activity_student_main">StudentMainActivity</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_logout">Log Out</string>
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_attendence">Attendance</string>
+    <string name="menu_notification">Notification</string>
+    <string name="menu_fees_and_dues">Fees and Dues</string>
+    <string name="menu_result">Result</string>
+    <string name="menu_notes">Notes</string>
+    <string name="menu_labs_and_projects">Labs and Projects</string>
+    <string name="name">Name</string>
+    <string name="email">Email</string>
+    <string name="menu_tutorials_and_assingments">Tutorials and Assingments</string>
+    <string name="title_activity_bit_student_main">BitStudentMainActivity</string>
+    <string name="title_activity_bip_student_main">BipStudentMainActivity</string>
+    <string name="menu_slideshow">Slideshow</string>
+    <string name="title_activity_bit_teacher_main">BitTeacherMainActivity</string>
+    <string name="title_activity_bihm_student_main">BihmStudentMainActivity</string>
+    <string name="title_activity_bdc_student_main">BdcStudentMainActivity</string>
+    <string name="title_activity_bpmc_student_main">BpmcStudentMainActivity</string>
+    <string name="title_activity_iti_student_main">ItiStudentMainActivity</string>
+</resources>
